@@ -9,7 +9,7 @@ name: voidhofer
 description: not your average script kiddie.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/voidhofer/voidhofer.github.io/raw/master/images/logo.jpg
+avatar: https://github.com/voidhofer/voidhofer.github.io/raw/master/images/logo.gif
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://github.com/voidhofer/voidhofer.github.io/raw/master/images/logo.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: vadi.ramzee@gmail.com
+  email: voidhofer@protonmail.com
   facebook:
   flickr:
   github: voidhofer
