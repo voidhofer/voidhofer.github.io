@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Bio
 
-![Badge](/images/badge.png "badge")
+![Badge](/images/badge.png?classes=float-left "badge")
 
 My name is Daniel Vadas and I am a programmer and cyber security enthusiast. I started learning programming when I was 14 by developing static sites and writing simple scripts. By the age of 16, I wrote my first CMS in PHP. Ever since then I have been learning, working on my skills, constaintly updating my existing knowledge and expanding my horizon.
 
@@ -16,8 +16,8 @@ A few years later in 2015 I started working for COPYGURU kft where I extended my
 
 ### CV
 
-<p style="float: left;margin: 15px;"><img src="/images/badge.png" alt="Badge" title="badge"></p>
+![CV](/images/cv.jpg "CV")
 
 ### Contact me
 
-Send me an [mail](mailto:voidhofer@protonmail.com).
+Send me an [email](mailto:voidhofer@protonmail.com).
