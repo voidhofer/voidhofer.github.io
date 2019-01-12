@@ -6,8 +6,6 @@ permalink: /about/
 
 ### Bio
 
-![Badge](/images/badge.png?classes=float-left "badge")
-
 My name is Daniel Vadas and I am a programmer and cyber security enthusiast. I started learning programming when I was 14 by developing static sites and writing simple scripts. By the age of 16, I wrote my first CMS in PHP. Ever since then I have been learning, working on my skills, constaintly updating my existing knowledge and expanding my horizon.
 
 I started working in the IT industry in 2011 as a system administrator for a medium sized company called Dominium-Ingatlan Kft. As I developed my web developer skills I got promoted to developer and I specializing on backend development. By the time I also started showing intrest to cyber security and penetration testing. 
@@ -21,3 +19,5 @@ A few years later in 2015 I started working for COPYGURU kft where I extended my
 ### Contact me
 
 Send me an [email](mailto:voidhofer@protonmail.com).
+
+![Badge](/images/badge.png?classes=float-left "badge")
