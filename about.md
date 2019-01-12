@@ -16,8 +16,8 @@ A few years later in 2015 I started working for COPYGURU kft where I extended my
 
 ### CV
 
-![CV](/images/cv.jpg "CV")
+<p style="float: left;margin: 15px;"><img src="/images/badge.png" alt="Badge" title="badge"></p>
 
 ### Contact me
 
-[send mail](mailto:voidhofer@protonmail.com)
+Send me an [mail](mailto:voidhofer@protonmail.com).
