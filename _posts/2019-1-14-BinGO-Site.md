@@ -9,6 +9,9 @@ A simple but powerful web application written in golang.
 This site is capable of serving multiple domains with different routing for each domain.
 The program can run in both HTTP and HTTPS mode and it support multiple TLS keys for multiple domains.
 
+## Get Started
+Head over to [github](github.com/voidhofer/bingo-site)!
+
 ## Features
 - Multi-domain support (with different routing rules for each domain)
 - Multi-domain HTTPS support (using multiple tls configurations for domains)
